@@ -4,7 +4,7 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>microservices.book</groupId>
-	<artifactId>social-multiplication-v6</artifactId>
+	<artifactId>social-multiplication-v7</artifactId>
 	<version>0.7.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
