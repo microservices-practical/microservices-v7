@@ -14,6 +14,10 @@ zuul:
       path: /leaders/**
       url: http://localhost:8081/leaders
 
+endpoints:
+  trace:
+    sensitive: false
+
 ribbon:
   eureka:
     enabled: false
