@@ -13,6 +13,9 @@ zuul:
     leaders:
       path: /leaders/**
       url: http://localhost:8081/leaders
+    stats:
+      path: /stats/**
+      url: http://localhost:8081/stats
 
 endpoints:
   trace:
